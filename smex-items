@@ -1,0 +1,64 @@
+
+;; ----- smex-history -----
+(
+ package-list-packages
+ magit-diff
+ eshell
+ magit-log
+ magit-pull
+ flycheck-tip-cycle
+ eval-buffer
+)
+
+;; ----- smex-data -----
+(
+ (package-list-packages . 12)
+ (package-install . 14)
+ (column-number-mode . 1)
+ (indent-buffer . 9)
+ (golden-ratio . 2)
+ (golden-ratio-toggle-widescreen . 1)
+ (golden-ratio-adjust . 8)
+ (yas-insert-snippet . 2)
+ (describe-mode . 1)
+ (completion-at-point . 1)
+ (ztree-dir . 1)
+ (discover-my-mode . 1)
+ (discover-my-major . 2)
+ (gameoflife-animate . 1)
+ (life . 1)
+ (load-file . 1)
+ (auto-document . 3)
+ (comment-region . 3)
+ (flycheck-tip-cycle . 2)
+ (kill-comment . 2)
+ (eshell . 6)
+ (paren-activate . 2)
+ (ielm . 3)
+ (org-mode . 1)
+ (recentf-mode . 1)
+ (recentf-load-list . 1)
+ (flycheck-info . 1)
+ (flycheck-next-error . 1)
+ (flycheck-display-error-at-point . 1)
+ (emacs-version . 1)
+ (eval-buffer . 29)
+ (eval-expression . 6)
+ (snake . 1)
+ (magit-pull . 6)
+ (backward-kill-sexp . 1)
+ (magit-commit . 4)
+ (magit-push . 3)
+ (magit-log . 2)
+ (animate-birthday-present . 1)
+ (binhex-decode-region-internal . 1)
+ (decipher . 1)
+ (butterfly . 1)
+ (back-to-indentation . 1)
+ (delete-horizontal-space . 1)
+ (delete-blank-lines . 1)
+ (checkdoc-eval-current-buffer . 1)
+ (twenty-fourty-eight-mode . 15)
+ (fundamental-mode . 1)
+ (magit-diff . 1)
+)
